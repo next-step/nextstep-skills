@@ -2,7 +2,7 @@
   "name": "nextstep-skills",
   "description": "넥스트스텝(NextStep) 미션용 스킬들 모음",
   "owner": {
-    "name": "parkchu"
+    "name": "next-step"
   },
   "plugins": [
     {
