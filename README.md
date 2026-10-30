@@ -24,7 +24,7 @@
 터미널에서 실행하세요.
 
 ```
-claude plugin marketplace add parkchu/nextstep-skills
+claude plugin marketplace add next-step/nextstep-skills
 claude plugin install nextstep@nextstep-skills
 ```
 
@@ -49,7 +49,7 @@ claude plugin marketplace remove nextstep-skills
 터미널에서 실행하세요.
 
 ```
-codex plugin marketplace add parkchu/nextstep-skills
+codex plugin marketplace add next-step/nextstep-skills
 codex plugin add nextstep@nextstep-skills
 ```
 
@@ -75,19 +75,19 @@ codex plugin marketplace remove nextstep-skills
 터미널에서 실행하세요.
 
 ```
-pi install git:github.com/parkchu/nextstep-skills
+pi install git:github.com/next-step/nextstep-skills
 ```
 
 **업데이트**
 
 ```
-pi update git:github.com/parkchu/nextstep-skills
+pi update git:github.com/next-step/nextstep-skills
 ```
 
 **삭제**
 
 ```
-pi remove git:github.com/parkchu/nextstep-skills
+pi remove git:github.com/next-step/nextstep-skills
 ```
 
 </details>
